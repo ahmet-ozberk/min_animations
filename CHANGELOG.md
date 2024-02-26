@@ -1,3 +1,3 @@
-## 0.0.1
+## 0.5.5 - 26-02-2024
 
-* TODO: Describe initial release.
+* Readme.md A sweet little package containing animation widgets and animation extensions. Package public.

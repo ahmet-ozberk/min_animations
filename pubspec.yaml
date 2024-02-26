@@ -1,7 +1,7 @@
 name: min_animations
-description: "A new Flutter package project."
+description: "A sweet little package containing animation widgets and animation extensions."
 version: 0.0.1
-homepage:
+homepage: https://github.com/ahmet-ozberk/min_animations
 
 environment:
   sdk: '>=3.3.0 <4.0.0'
