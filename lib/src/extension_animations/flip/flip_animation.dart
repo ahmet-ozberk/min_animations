@@ -58,6 +58,12 @@ class __FlipAnimationState extends State<_FlipAnimation>
     _controller.forward();
   }
 
+    @override
+  dispose() {
+    _controller.dispose();
+    super.dispose();
+  }
+
   @override
   Widget build(BuildContext context) {
     return Transform(

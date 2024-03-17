@@ -1,6 +1,6 @@
 name: min_animations
 description: "A sweet little package containing animation widgets and animation extensions."
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/ahmet-ozberk/min_animations
 
 environment:
